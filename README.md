@@ -3,6 +3,7 @@
 If you want the raw vb files, please go to this repository: https://github.com/ShouoDirector/DataLoadingAndConversion_DaraGridToExcel 
 
 Simple User guide
+
       1.) Download and open the msi file. /n
       2.) Click next three times. /n
       3.) Confirm
@@ -19,5 +20,3 @@ This program includes Data Loading, Conversion, and Database Backup functions. U
      6.) The location of the focused cell is displayed dynamically as text. 
      7.) In addition, the program allows users to delete a specified row or column by inputting the number of the column or row. 
      8.) Finally, users can create a new csv file and ability to specify the number of rows and columns for the new file.
-
-See youtube video ----->   https://youtu.be/tTRHd7QQkkw
