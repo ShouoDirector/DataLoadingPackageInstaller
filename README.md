@@ -21,3 +21,9 @@ This program includes Data Loading, Conversion, and Database Backup functions. U
      6.) The location of the focused cell is displayed dynamically as text. 
      7.) In addition, the program allows users to delete a specified row or column by inputting the number of the column or row. 
      8.) Finally, users can create a new csv file and ability to specify the number of rows and columns for the new file.
+
+Potential contributions to add to the raw files:
+
+      1. Error Handling
+      2. UI/UX
+      3. Optimizing performance
