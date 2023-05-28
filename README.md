@@ -3,9 +3,9 @@
 If you want the raw vb files, please go to this repository: https://github.com/ShouoDirector/DataLoadingAndConversion_DaraGridToExcel 
 
 Simple User guide
-       1.) Open the msi.
-       2.) Click next three times.
-       3.) Confirm
+      1.) Download and open the msi file. /n
+      2.) Click next three times. /n
+      3.) Confirm
 
 # DataLoadingAndConversion
 
